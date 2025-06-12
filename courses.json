@@ -1,0 +1,132 @@
+[
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Men",
+   "Teebox": 45,
+   "CourseRating": "71,4",
+   "SlopeRating": 129,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Men",
+   "Teebox": 49,
+   "CourseRating": "69,4",
+   "SlopeRating": 125,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Men",
+   "Teebox": 52,
+   "CourseRating": "67,7",
+   "SlopeRating": 121,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Men",
+   "Teebox": 56,
+   "CourseRating": "65,8",
+   "SlopeRating": 119,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Men",
+   "Teebox": 60,
+   "CourseRating": "62,9",
+   "SlopeRating": 111,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Ladies",
+   "Teebox": 45,
+   "CourseRating": "77,5",
+   "SlopeRating": 135,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Ladies",
+   "Teebox": 49,
+   "CourseRating": "75,4",
+   "SlopeRating": 129,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Ladies",
+   "Teebox": 52,
+   "CourseRating": "73,1",
+   "SlopeRating": 123,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Ladies",
+   "Teebox": 56,
+   "CourseRating": "70,8",
+   "SlopeRating": 120,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "EP",
+   "Course": "EP",
+   "Gender": "Ladies",
+   "Teebox": 60,
+   "CourseRating": "67,3",
+   "SlopeRating": 114,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "La Quinta",
+   "Course": "A&B",
+   "Gender": "Men",
+   "Teebox": 60,
+   "CourseRating": "67,3",
+   "SlopeRating": 114,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "La Quinta",
+   "Course": "B&C",
+   "Gender": "Men",
+   "Teebox": 60,
+   "CourseRating": "67,3",
+   "SlopeRating": 114,
+   "Par": 71
+ },
+ {
+   "Country": "Spain",
+   "GolfClub": "La Quinta",
+   "Course": "A&C",
+   "Gender": "Men",
+   "Teebox": 60,
+   "CourseRating": "67,3",
+   "SlopeRating": 114,
+   "Par": 71
+ }
+]
