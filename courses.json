@@ -1,8 +1,8 @@
-[
+araiso[
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Men",
    "Teebox": "45",
    "CourseRating": "71,4",
@@ -11,8 +11,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Men",
    "Teebox": "49",
    "CourseRating": "69,4",
@@ -21,8 +21,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Men",
    "Teebox": "52",
    "CourseRating": "67,7",
@@ -31,8 +31,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Men",
    "Teebox": "56",
    "CourseRating": "65,8",
@@ -41,8 +41,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El ParaisoP",
    "Gender": "Men",
    "Teebox": "60",
    "CourseRating": "62,9",
@@ -51,8 +51,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "45",
    "CourseRating": "77,5",
@@ -61,8 +61,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El ParaisoP",
    "Gender": "Ladies",
    "Teebox": "49",
    "CourseRating": "75,4",
@@ -71,8 +71,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "52",
    "CourseRating": "73,1",
@@ -81,8 +81,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf Club",
+   "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "56",
    "CourseRating": "70,8",
@@ -91,8 +91,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "EP",
-   "Course": "EP",
+   "GolfClub": "El Paraiso Golf ClubP",
+   "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "60",
    "CourseRating": "67,3",
@@ -101,8 +101,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "La Quinta",
-   "Course": "A&B",
+   "GolfClub": "La Quinta Golf Club",
+   "Course": "Course A & B",
    "Gender": "Men",
    "Teebox": "White",
    "CourseRating": "67,3",
@@ -111,8 +111,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "La Quinta",
-   "Course": "B&C",
+   "GolfClub": "La Quinta Golf Club",
+   "Course": "Course B & C",
    "Gender": "Men",
    "Teebox": "White",
    "CourseRating": "67,3",
@@ -121,8 +121,8 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "La Quinta",
-   "Course": "A&C",
+   "GolfClub": "La Quinta Golf Club",
+   "Course": "Course A & C",
    "Gender": "Men",
    "Teebox": "White",
    "CourseRating": "67,3",
