@@ -42,7 +42,7 @@
  {
    "Country": "Spain",
    "GolfClub": "El Paraiso Golf Club",
-   "Course": "El ParaisoP",
+   "Course": "El Paraiso",
    "Gender": "Men",
    "Teebox": "60",
    "CourseRating": "62,9",
@@ -62,7 +62,7 @@
  {
    "Country": "Spain",
    "GolfClub": "El Paraiso Golf Club",
-   "Course": "El ParaisoP",
+   "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "49",
    "CourseRating": "75,4",
@@ -91,7 +91,7 @@
  },
  {
    "Country": "Spain",
-   "GolfClub": "El Paraiso Golf ClubP",
+   "GolfClub": "El Paraiso Golf Club",
    "Course": "El Paraiso",
    "Gender": "Ladies",
    "Teebox": "60",
